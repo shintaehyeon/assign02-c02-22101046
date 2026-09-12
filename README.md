@@ -1,7 +1,7 @@
 # Assignment 02 — HTML & CSS Practice
 
 - 이름: 신태현 (Shin Tae Hyeon)
-- 학번: 22101046
+- 학번: 22010146
 - 과목: Open Source Studio 02분반
 - GitHub Repository: https://github.com/2026-2-OSS/assign02-c02-22101046
 - Vercel Deploy URL: https://assign02-c02-22101046.vercel.app
